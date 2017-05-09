@@ -1,4 +1,3 @@
-package sql_project2;
 import java.io.*;
 import java.util.*;
 public class SQL_Project2
